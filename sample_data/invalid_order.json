@@ -1,0 +1,12 @@
+{
+  "order_id": "ORD-INVALID-01",
+  "customer_name": "Morgan Chen",
+  "order_date": "2026-10-23T10:30:00",
+  "destination": "X",
+  "items": [
+    {
+      "sku": " ",
+      "qty": "abc"
+    }
+  ]
+}

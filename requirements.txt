@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pydantic>=2.0
+httpx
+python-multipart
+python-dotenv
+defusedxml
+pytest

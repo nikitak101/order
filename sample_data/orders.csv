@@ -1,0 +1,2 @@
+order_id,customer_name,order_date,destination,sku,qty
+ORD-CSV-BAD,Sam Patel,2026-10-23,Austin TX,SKU-CSV-01,abc

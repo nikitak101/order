@@ -1,0 +1,1 @@
+This is a dummy PDF test file for checking that POST /orders/upload returns HTTP 415 for unsupported file types.

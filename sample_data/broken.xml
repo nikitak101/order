@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <order_id>ORD-BROKEN-XML</order_id>
+    <items>
+      <item><sku>SKU-01</sku><qty>1</qty></item>
+    </items>
+  </order>

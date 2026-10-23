@@ -1,0 +1,12 @@
+{
+  "order_id": "ORD-1001",
+  "customer_name": "Jordan Lee",
+  "order_date": "2026-10-23",
+  "destination": "Seattle, WA",
+  "items": [
+    {
+      "sku": "SKU-RED-01",
+      "qty": 2
+    }
+  ]
+}

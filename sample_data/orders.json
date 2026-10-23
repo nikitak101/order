@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": "ORD-UPLOAD-GOOD",
+    "customer_name": "Taylor Brooks",
+    "order_date": "2026-10-23",
+    "destination": "Denver, CO",
+    "items": [
+      {
+        "sku": "SKU-BLUE-01",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-UPLOAD-BAD",
+    "customer_name": "Alex Rivera",
+    "order_date": "2026-10-23T10:30:00",
+    "destination": "Denver, CO",
+    "items": [
+      {
+        "sku": "SKU-BAD-01",
+        "qty": 0
+      }
+    ]
+  }
+]

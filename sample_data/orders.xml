@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <order_id>ORD-XML-001</order_id>
+    <customer_name>Casey Morgan</customer_name>
+    <order_date>2026-10-23</order_date>
+    <destination>Portland, OR</destination>
+    <items>
+      <item>
+        <sku>SKU-XML-01</sku>
+        <qty>4</qty>
+      </item>
+    </items>
+  </order>
+</orders>
